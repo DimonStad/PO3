@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1_lab</name>
+    </assembly>
+    <members>
+        <member name="T:_1_lab.Menu">
+            <summary>
+            Меню
+            </summary>
+        </member>
+        <member name="M:_1_lab.Menu.Title(_1_lab.Reader)">
+             <summary>
+            Menu
+             </summary>
+             <param name="r">Inputed Reader</param>
+        </member>
+        <member name="M:_1_lab.Menu.Execute(System.Int32,_1_lab.Reader)">
+             <summary>
+            Command execute
+             </summary>
+             <param name="command">Command</param>
+             <param name="r">Reader</param>
+        </member>
+        <member name="M:_1_lab.Program.Main(System.String[])">
+             <summary>
+            Enter-point of program
+             </summary>
+             <param name="args">inputed args</param>
+        </member>
+        <member name="T:_1_lab.Reader">
+            <summary>
+            Класс для чтения txt файла
+            </summary>
+        </member>
+        <member name="M:_1_lab.Reader.#ctor(System.String,System.String)">
+             <summary>
+            Constructor
+             </summary>
+             <param name="_path">File path</param>
+             <param name="_data">String that will writed to the file</param>
+        </member>
+        <member name="M:_1_lab.Reader.#ctor">
+             <summary>
+            Constructor without args
+             </summary>
+        </member>
+        <member name="M:_1_lab.Reader.Path(System.String)">
+             <summary>
+            Set file path
+             </summary>
+             <param name="_path">File path</param>
+        </member>
+        <member name="M:_1_lab.Reader.Data(System.String)">
+            <summary>
+            String that will be writed to file
+            </summary>
+            <param name="_data">String</param>
+        </member>
+        <member name="M:_1_lab.Reader.FileToString">
+             <summary>
+            Confert txt file to string
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:_1_lab.Reader.StringToNewFile">
+             <summary>
+            Convert string to file
+             </summary>
+        </member>
+        <member name="M:_1_lab.Reader.AppendFile">
+             <summary>
+            Append file by string
+             </summary>
+        </member>
+        <member name="M:_1_lab.Reader.CopyFile(System.String,System.String)">
+             <summary>
+            Make copy of file
+             </summary>
+             <param name="FromFile">Name of copied file</param>
+             <param name="ToFile">Name of new file</param>
+        </member>
+        <member name="T:_1_lab.UnitTests">
+             <summary>
+            Test module
+             </summary>
+        </member>
+        <member name="M:_1_lab.UnitTests.PassingFactReaderTest">
+             <summary>
+            Fact test
+             </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\bin\Debug\netcoreapp2.2\Laba7OOP.deps.json
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\bin\Debug\netcoreapp2.2\Laba7OOP.runtimeconfig.json
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\bin\Debug\netcoreapp2.2\Laba7OOP.runtimeconfig.dev.json
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\bin\Debug\netcoreapp2.2\Laba7OOP.dll
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\bin\Debug\netcoreapp2.2\Laba7OOP.pdb
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.AssemblyInfo.cs
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.dll
+C:\Users\1\source\repos\Laba7OOP\Laba7OOP\obj\Debug\netcoreapp2.2\Laba7OOP.pdb
