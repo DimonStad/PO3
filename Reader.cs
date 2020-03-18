@@ -50,29 +50,7 @@ namespace _1_lab
             string s = System.IO.File.ReadAllText(path).Replace("\n", " ");
             return s;
         }
-                /// <summary>
-        ///Convert string to file
-        /// </summary>
-        public void StringToNewFile()
-        {
-            System.IO.File.WriteAllText(path,data);
-        }
-                /// <summary>
-        ///Append file by string
-        /// </summary>
-        public void AppendFile()
-        {
-            System.IO.File.AppendAllText(path,data);
-        }
-                /// <summary>
-        ///Make copy of file
-        /// </summary>
-        /// <param name="FromFile">Name of copied file</param>
-        /// <param name="ToFile">Name of new file</param>
-        public static void CopyFile(string FromFile, string ToFile)
-        {
-            System.IO.File.Copy(FromFile,ToFile,true);
-        }
+
 
     }
 }
