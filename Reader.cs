@@ -51,6 +51,13 @@ namespace _1_lab
             return s;
         }
 
+                        /// <summary>
+        ///Convert string to file
+        /// </summary>
+        public void StringToNewFile()
+        {
+            System.IO.File.WriteAllText(path,data);
+        }
 
     }
 }
